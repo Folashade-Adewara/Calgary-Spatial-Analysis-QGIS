@@ -33,7 +33,7 @@ This map displays all features within the Policy Plan Boundary
 dataset, classified by their approval status. It gives a city-wide 
 view of the extent of active planning designations across Calgary.
 
-![1](Features_in_Policy%20_Plan%20_Boundaries.png)
+![1](maps/Features_in_Policy%20_Plan%20_Boundaries.png)
 
 **Skills demonstrated:**
 - Attribute-based filtering
@@ -52,7 +52,7 @@ This map identifies areas in the South sector that fall within
 LRT policy plan designations, helping planners understand where 
 transit-oriented planning overlaps with specific city sectors.
 
-![2](intersection%20of_SOUTH_sector_with%20_L.R.T._Policy_plan_type.png)
+![2](maps/intersection%20of_SOUTH_sector_with%20_L.R.T._Policy_plan_type.png)
 
 **Skills demonstrated:**
 - Polygon intersection analysis
@@ -72,7 +72,7 @@ within the Northeast sector — areas that fall outside any Area
 Structure Plan designation, which could indicate future planning 
 priorities.
 
-![3](Areas%20in_NORTHEAST_that_are_not_in_Area_Structure_Plan_type.png)
+![3](maps/Areas%20in_NORTHEAST_that_are_not_in_Area_Structure_Plan_type.png)
 
 **Skills demonstrated:**
 - Difference geoprocessing
@@ -91,7 +91,7 @@ This map extracts and displays the exact shared boundary between
 two adjacent city sectors, useful for administrative boundary 
 analysis and cross-sector planning coordination.
 
-![4](maps/%204%20Common_boundary_between_WEST_and_NORTHWEST_sectors%20(2).png)
+![4](maps/Common_boundary_between_WEST_and_NORTHWEST_sectors%20(2).png)
 
 **Skills demonstrated:**
 - Boundary extraction
@@ -111,7 +111,7 @@ that cross the Glenmore Trail road corridor. This type of analysis
 is important for infrastructure planning, flood risk assessment 
 and bridge location decisions.
 
-![5](maps/%205%20Rivers_that_intersect_%20with_GLENMORE_road.png)
+![5](maps/Rivers_that_intersect_%20with_GLENMORE_road.png)
 
 **Skills demonstrated:**
 - Line-on-line intersection
@@ -131,7 +131,7 @@ to the University of Calgary community district. This type of
 adjacency analysis is used in neighbourhood planning, transit 
 routing and service delivery.
 
-![6](maps/%206%20Communities_that_share_their_boundaries_with_UNI_OF_CALGARY.png)
+![6](maps/Communities_that_share_their_boundaries_with_UNI_OF_CALGARY.png)
 
 **Skills demonstrated:**
 - Adjacency analysis
@@ -150,7 +150,7 @@ This map identifies communities in the West sector that have no
 designated natural area overlap, highlighting potential green 
 space deficiencies that could inform parks planning decisions.
 
-![7](maps/%207%20Communities_in_WEST_sector_that_do_not_contain_natural_area.png)
+![7](maps/Communities_in_WEST_sector_that_do_not_contain_natural_area.png)
 
 **Skills demonstrated:**
 - Negative spatial selection (what is absent)
@@ -170,7 +170,7 @@ crossed by a river or stream. This analysis has direct applications
 in flood risk planning, emergency management and environmental 
 assessment.
 
-![8](maps/%208%20Communities_that_a_river_passes_through.png)
+![8](maps/Communities_that_a_river_passes_through.png)
 
 **Skills demonstrated:**
 - Polygon-line intersection
@@ -190,7 +190,7 @@ area network that falls within the Varsity community boundary.
 It demonstrates precise polygon clipping for community-level 
 environmental analysis.
 
-![9](maps/%209%20Natural_area_that_overlaps_with_VARSITY_community.png)
+![9](maps/Natural_area_that_overlaps_with_VARSITY_community.png)
 
 **Skills demonstrated:**
 - Polygon clipping
