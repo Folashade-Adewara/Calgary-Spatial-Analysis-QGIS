@@ -33,7 +33,7 @@ This map displays all features within the Policy Plan Boundary
 dataset, classified by their approval status. It gives a city-wide 
 view of the extent of active planning designations across Calgary.
 
-![1](maps%201%20Features_in_Policy%20_Plan%20_Boundaries.png)
+![1](Features_in_Policy%20_Plan%20_Boundaries.png)
 
 **Skills demonstrated:**
 - Attribute-based filtering
@@ -52,7 +52,7 @@ This map identifies areas in the South sector that fall within
 LRT policy plan designations, helping planners understand where 
 transit-oriented planning overlaps with specific city sectors.
 
-![2](maps%202%20intersection%20of_SOUTH_sector_with%20_L.R.T._Policy_plan_type.png)
+![2](intersection%20of_SOUTH_sector_with%20_L.R.T._Policy_plan_type.png)
 
 **Skills demonstrated:**
 - Polygon intersection analysis
@@ -72,7 +72,7 @@ within the Northeast sector — areas that fall outside any Area
 Structure Plan designation, which could indicate future planning 
 priorities.
 
-![3](maps/%203%20Areas%20in_NORTHEAST_that_are_not_in_Area_Structure_Plan_type.png)
+![3](Areas%20in_NORTHEAST_that_are_not_in_Area_Structure_Plan_type.png)
 
 **Skills demonstrated:**
 - Difference geoprocessing
